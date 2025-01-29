@@ -1,0 +1,35 @@
+html {
+  height: 100%;
+  width: 100%;
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  margin-top: 100px;
+}
+
+h1 {
+  font-size: 3rem;
+  color: cyan;
+  text-shadow: 0 0 10px cyan, 0 0 20px cyan;
+}
+
+button {
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 15px 20px;
+  font-size: 1.2rem;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.oculto {
+  display: none;
+  color: yellow;
+  margin-top: 50px;
+}
